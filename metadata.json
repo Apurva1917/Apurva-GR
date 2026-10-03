@@ -1,0 +1,6 @@
+{
+  "name": "GharSe - Hyperlocal Homemade Food Marketplace",
+  "description": "Hyperlocal marketplace connecting Indian homemakers and home cooks with nearby food lovers, featuring real-time preparation transparency, live photo timelines, and Gemini AI listing assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
